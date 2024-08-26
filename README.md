@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/joe_tafir" target="blank"><img src="https://img.shields.io/twitter/follow/joe_tafir?logo=twitter&style=for-the-badge" alt="joe_tafir" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python.**
 
 - 🌱 I’m currently learning **Python**
 
