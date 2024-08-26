@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/joe_tafir" target="blank"><img src="https://img.shields.io/twitter/follow/joe_tafir?logo=twitter&style=for-the-badge" alt="joe_tafir" /></a> </p>
 
-- 🔭 I’m currently working on **holidaz.co.ke**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **JavaScript HTML CSS**
+- 💬 Ask me about **JavaScript HTML CSS PYTHON**
 
 - 📫 How to reach me **joekentafir@gmail.com or joekentafir122@yahoo.com**
 
