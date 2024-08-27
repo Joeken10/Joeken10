@@ -1,6 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/6017341076f2a8d89ac635f8bfb1fdb9b0c336f487af1ecf373205cb85c2c171/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
 
-
 <h1 align="center">Hi 👋, I'm Kennedy Joseph</h1>
 <h3 align="center">WILLING TO LEARN SOFTWARE ENGINEER KENYAN</h3>
 
