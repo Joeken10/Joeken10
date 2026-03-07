@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kennedy Joseph</h1>
-<h2 align="center">I go by the pronouns He/Him/His 🧔</h2>
+<h2 align="center">I go by the pronouns He/Him 🧔</h2>
 <h3 align="center">A WILLING TO LEARN SOFTWARE ENGINEER FROM KENYA 🇰🇪</h3>
 
 <p align="left"> <a href="https://twitter.com/joe_tafir" target="blank"><img src="https://img.shields.io/twitter/follow/joe_tafir?logo=twitter&style=for-the-badge" alt="joe_tafir" /></a> </p>
