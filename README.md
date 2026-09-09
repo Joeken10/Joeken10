@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript HTML CSS Python Bootstrap Postgresql**
 
-- 📫 How to reach me **joekentafir@gmail.com or joekentafir122@yahoo.com**
+- 📫 How to reach me **joekentafir122@yahoo.com**
 
 - ⚡ Fun fact **I think I'm obsessed with learning new ideas**
 
